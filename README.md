@@ -2,12 +2,7 @@
 
 It's Fathiya Banah, a moroccan data & computer science student.
 
-{
-  "schemaVersion": 1,
-  "label": "hello",
-  "message": "sweet world",
-  "color": "orange"
-}
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 <!--
 **f-banah/f-banah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
