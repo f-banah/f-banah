@@ -5,7 +5,7 @@
 
 <h2 align="center"> 👨‍💻 Who am i</h2>
 <p align="center">
-  <samp>It's Fathiya Banah. A 3rd-year Data & Computer Science tudent at The National Institute of Statistics and Applied Economics (INSEA) , who is passionate about Data Science :bar_chart:, Python :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+  <samp>It's Fathiya Banah. A 3rd-year Data & Computer Science Student at The National Institute of Statistics and Applied Economics (INSEA) , who is passionate about Data Science :bar_chart:, Python :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
   </samp>
   <br> <br>
  
