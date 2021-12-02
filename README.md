@@ -2,7 +2,7 @@
 
 It's Fathiya Banah. A moroccan data & computer science student.
 
-https://img.shields.io/static/v1?label=linkedin&message=account&color=red
+	/keybase/btc/:username
 
 <!--
 **f-banah/f-banah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
