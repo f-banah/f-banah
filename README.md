@@ -2,8 +2,7 @@
 
 It's Fathiya Banah. A moroccan data & computer science student.
 
-	/keybase/btc/:username
-
+	
 <!--
 **f-banah/f-banah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
