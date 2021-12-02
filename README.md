@@ -8,7 +8,7 @@
   <samp>It's Fathiya Banah. A 3rd-year data & computer science Student at The National Institute of Statistics and Applied Economics (INSEA) , who is passionate about Data Science :bar_chart:, Python :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
   </samp>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
+ 
 </p>
 
 
