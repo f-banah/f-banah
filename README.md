@@ -5,16 +5,16 @@ It's Fathiya Banah. A moroccan data & computer science student.
 
 <!-- Actual text -->
 
-You can find me on [![Gmail][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can find me on on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+[2.2]: https://png.pngtree.com/element_our/png/20181011/linkedin-social-media-icon-design-template-vector-png_127000.jpg (LinkedIn icon )
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
+
 [2]: https://www.linkedin.com/in/fathiya-banah/
 
 
