@@ -10,7 +10,7 @@ You can find me on on [![LinkedIn][2.2]][2].
 <!-- Icons -->
 
 
-[2.2]: https://png.pngtree.com/element_our/png/20181011/linkedin-social-media-icon-design-template-vector-png_127000.jpg (LinkedIn icon )
+[2.2]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrilAkE19O4fWm6kE60nGLxuwgyp1BVUkk9XWpnEuy5I2_qM20G0kzB9eveItl0-cYBs4&usqp=CAU (LinkedIn icon )
 
 <!-- Links to your social media accounts -->
 
