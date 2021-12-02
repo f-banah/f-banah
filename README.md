@@ -1,8 +1,8 @@
 ### Hey everyone 👋 !
 
-It's Fathiya Banah, a moroccan data & computer science student.
+It's Fathiya Banah. A moroccan data & computer science student.
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+https://img.shields.io/static/v1?label=linkedin&message=account&color=red
 
 <!--
 **f-banah/f-banah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
