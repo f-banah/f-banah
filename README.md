@@ -17,7 +17,9 @@ You can find me on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/fathiya-banah/
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Fathiya Banah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fathiya-banah/)](https://www.linkedin.com/in/fathiya-banah/)
+[![Linkedin Badge](https://img.shields.io/badge/-FathiyaBanah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fathiya-banah/)](https://www.linkedin.com/in/fathiya-banah/)
+
+
 
 
 
